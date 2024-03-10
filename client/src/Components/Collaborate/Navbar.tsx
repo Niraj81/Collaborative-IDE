@@ -108,7 +108,7 @@ const Navbar = ({ showInvite = true }) => {
                      variant="text"
                      startIcon={<TbUserPlus />}
                      size="small"
-                     onClick={() => setIsInviteModalActive(true)}
+                     onClick={() => {}}
                   >
                      Invite
                   </Button>
